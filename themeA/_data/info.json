@@ -1,0 +1,37 @@
+{
+	"title": "TRYING",
+	"description": "Tu sonrisa en buenas #{title}.",
+	"baseurl": ".",
+	"url": "",
+	"logo_url": "svg/min/logo.svg",
+	"hero": {
+		"hero_img": "hero.jpg",
+		"hero_title": "DentalPino!",
+		"hero_description": "Tu sonrisa no podría estar en mejores #{title}."
+	},
+	"api_token": null,
+	"contact": {
+		"phone": "932 50 540",
+		"emergency": "931 53 234",
+		"email": "contacto@dentalpino.com",
+		"address": "Avenida Fundadores \\#273, <br> Monterrey, Mexico"
+	},
+	"monday_friday": "9:00 – 18:00",
+	"saturday": "10:00 – 17:00",
+	"sunday": "10:00 – 15:00",
+	"testimonials": {
+		"testimonials_img": "parallax.jpg"
+	},
+	"map": {
+		"zoom": 17,
+		"address": "Von schroeders 273, Viña del mar, Chile",
+		"address_details": "svg/min/logo.svg"
+	},
+	"facebook": "http://facebook.com",
+	"twitter": "http://twitter.com",
+	"instagram": "http://instagram.com",
+	"youtube": "http://youtube.com",
+	"skype": null,
+	"feed": "yes",
+	"copyright": "© 2016 DentalPino - All rights reserved"
+}
